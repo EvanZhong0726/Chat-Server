@@ -10,3 +10,5 @@
 - Owner cannot kick himself out
 - Owner cannot leave the room, disabled button 
 - A scrollable chat log panel
+
+Need to install node.js for the program to run
