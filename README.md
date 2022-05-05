@@ -24,4 +24,8 @@ And then clone the repository, go inside the repository and run:
      
        node chat-server.js
        
-Then go to localhost:3456 in your browser, you should be able to see the chat-server
+Then go to 
+
+       localhost:3456/client.html
+       
+in your browser, you should be able to see the chat-server
