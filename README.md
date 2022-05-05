@@ -1,9 +1,3 @@
-# CSE330
-Evan Zhong 472826 EvanZhong0726
-
-Young Lin 485987 Young31Lin
-
-### Creative Portion
 --------
 #### Functionalities:
 - User can leave the chat room
